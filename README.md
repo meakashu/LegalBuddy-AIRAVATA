@@ -10,9 +10,9 @@
 
 ## 📽️ Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/JfJ03A7zdJk/maxresdefault.jpg)]([https://www.youtube.com/watch?v=JfJ03A7zdJk](https://youtu.be/QL-FbCi40gU?si=YFSaVViH669TLmxl))
+[![Watch the Demo](https://img.youtube.com/vi/JfJ03A7zdJk/maxresdefault.jpg)](https://www.youtube.com/watch?v=QL-FbCi40gU)
 
-> 🔗 **Click to Watch**: [https://www.youtube.com/watch?v=JfJ03A7zdJk]([https://www.youtube.com/watch?v=JfJ03A7zdJk](https://youtu.be/QL-FbCi40gU?si=YFSaVViH669TLmxl))
+> 🔗 **Click to Watch**: [https://www.youtube.com/watch?v=JfJ03A7zdJk](https://www.youtube.com/watch?v=QL-FbCi40gU)
 
 
 > “Justice delayed is justice denied.”  
