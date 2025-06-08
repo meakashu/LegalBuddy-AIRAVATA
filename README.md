@@ -8,6 +8,13 @@
 
 **LegalBuddy** is a revolutionary AI-powered legal assistant designed to **simplify legal information** for the common Indian citizen — especially **non-experts, rural users, and visually impaired individuals**.
 
+## 📽️ Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/JfJ03A7zdJk/maxresdefault.jpg)]([https://www.youtube.com/watch?v=JfJ03A7zdJk](https://youtu.be/QL-FbCi40gU?si=YFSaVViH669TLmxl))
+
+> 🔗 **Click to Watch**: [https://www.youtube.com/watch?v=JfJ03A7zdJk]([https://www.youtube.com/watch?v=JfJ03A7zdJk](https://youtu.be/QL-FbCi40gU?si=YFSaVViH669TLmxl))
+
+
 > “Justice delayed is justice denied.”  
 LegalBuddy is here to change that—using AI, AR, and multilingual accessibility to bring the law within everyone's reach.
 
