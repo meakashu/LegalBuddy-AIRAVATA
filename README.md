@@ -254,7 +254,11 @@
 ---
 
 ## 🎥 Demo
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/oTyTrha9LGE/0.jpg)](https://youtu.be/oTyTrha9LGE?si=kdHkKGjmHAjHwtIA)
+
+▶️ [Watch Full Demo Video on YouTube](https://youtu.be/oTyTrha9LGE?si=kdHkKGjmHAjHwtIA)
+
+📥 [Download Demo Video from Google Drive](https://drive.google.com/file/d/1YpBG95kQdZL6-EiTiPXkG_0kjlipvY18/view?usp=drivesdk)
 
 **Demo Features:**
 1. 📝 User Registration
@@ -338,7 +342,6 @@ This project and all its contents are protected by copyright law. You are **not 
 
 ## 📞 Connect With Us
 <div align="center">
-  <a href="https://github.com/yourusername/legalbuddy-2025"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/akash-kumar-singh-883377273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/me.akashuu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div> 
