@@ -254,11 +254,8 @@
 ---
 
 ## 🎥 Demo
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/oTyTrha9LGE/0.jpg)](https://youtu.be/oTyTrha9LGE?si=kdHkKGjmHAjHwtIA)
 
-▶️ [Watch Full Demo Video on YouTube](https://youtu.be/oTyTrha9LGE?si=kdHkKGjmHAjHwtIA)
-
-📥 [Download Demo Video from Google Drive](https://drive.google.com/file/d/1YpBG95kQdZL6-EiTiPXkG_0kjlipvY18/view?usp=drivesdk)
+📥 [Download Demo Video from Google Drive]([https://drive.google.com/file/d/1YpBG95kQdZL6-EiTiPXkG_0kjlipvY18/view?usp=drivesdk](https://drive.google.com/drive/folders/1_Oi-iXyveeSWw_-luIS6DKCLI9a-8pWB))
 
 **Demo Features:**
 1. 📝 User Registration
